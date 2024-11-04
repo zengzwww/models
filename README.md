@@ -29,7 +29,7 @@ Links to any model.
 - stable-diffusion-1.5
   - [stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)
   - [stable-diffusion-inpainting](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting)
-  - [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse(smoother)
+  - [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse)(smoother)
   - [sd-vae-ft-ema](https://huggingface.co/stabilityai/sd-vae-ft-ema)(sharper)
 
 ## Realistic models
