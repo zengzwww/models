@@ -31,6 +31,7 @@ Links to any model.
   - [stable-diffusion-inpainting](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-inpainting)
   - [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse)(smoother)
   - [sd-vae-ft-ema](https://huggingface.co/stabilityai/sd-vae-ft-ema)(sharper)
+  - [controlnet-v1-1](https://huggingface.co/lllyasviel/ControlNet-v1-1)
 
 ## Realistic models
 
