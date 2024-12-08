@@ -32,6 +32,7 @@ Links to any model.
   - [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse)(smoother)
   - [sd-vae-ft-ema](https://huggingface.co/stabilityai/sd-vae-ft-ema)(sharper)
   - [controlnet-v1-1](https://huggingface.co/lllyasviel/ControlNet-v1-1)
+  - [controlnet-v1-1-fp16](https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors)
 
 ## Realistic models
 
