@@ -48,8 +48,13 @@ Links to any model.
   - Realistic_Vision_V6.0_B1-inpainting
 - [ChilloutMix](https://civitai.com/models/6424/chilloutmix)(from SD-1.5)
 
-## FLUX
+## [FLUX](https://github.com/black-forest-labs/flux)
 
-- [FLUX.1[pro]]()
-- [FLUX.1[dev]]()
-- [FLUX.1[schnell]]()
+- [FLUX.1 [schnell]](https://huggingface.co/black-forest-labs/FLUX.1-schnell)
+- [FLUX.1 [dev]](https://huggingface.co/black-forest-labs/FLUX.1-dev)
+- [FLUX.1 Fill [dev]](https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev)
+- [FLUX.1 Canny [dev]](https://huggingface.co/black-forest-labs/FLUX.1-Canny-dev)
+- [FLUX.1 Depth [dev]](https://huggingface.co/black-forest-labs/FLUX.1-Depth-dev)
+- [FLUX.1 Canny [dev] LoRA](https://huggingface.co/black-forest-labs/FLUX.1-Canny-dev-lora)
+- [FLUX.1 Depth [dev] LoRA](https://huggingface.co/black-forest-labs/FLUX.1-Depth-dev-lora)
+- [FLUX.1 Redux [dev]](https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev)
