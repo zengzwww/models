@@ -47,6 +47,9 @@ Links to any model.
   - Realistic_Vision_V6.0_B1
   - Realistic_Vision_V6.0_B1-inpainting
 - [ChilloutMix](https://civitai.com/models/6424/chilloutmix)(from SD-1.5)
+  - [TaiwanDollLikeness](https://civitai.com/models/48363/taiwandolllikeness-v20)
+  - [KoreanDollLikeness](https://civitai.com/models/26124/koreandolllikeness-v20)
+  - [Japanese doll likeness](https://civitai.com/models/19044/japanese-doll-likeness)
 
 ## [FLUX](https://github.com/black-forest-labs/flux)
 
