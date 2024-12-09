@@ -47,3 +47,9 @@ Links to any model.
   - Realistic_Vision_V6.0_B1
   - Realistic_Vision_V6.0_B1-inpainting
 - [ChilloutMix](https://civitai.com/models/6424/chilloutmix)(from SD-1.5)
+
+## FLUX
+
+- [FLUX.1[pro]]()
+- [FLUX.1[dev]]()
+- [FLUX.1[schnell]]()
