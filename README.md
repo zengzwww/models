@@ -1,7 +1,9 @@
 # models
 Links to any model.
 
-## Base models
+## Stable Diffusion
+
+### Base models
 
 - stable-diffusion-3.5
   - [stable-diffusion-3.5-large-turbo](https://huggingface.co/stabilityai/stable-diffusion-3.5-large-turbo)
@@ -34,7 +36,7 @@ Links to any model.
   - [controlnet-v1-1](https://huggingface.co/lllyasviel/ControlNet-v1-1)
   - [controlnet-v1-1-fp16](https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors)
 
-## Realistic models
+### Realistic models
 
 - [DreamShaper-8](https://civitai.com/models/4384/dreamshaper)(from SD-1.5)
   - DreamShaper-8
@@ -44,4 +46,4 @@ Links to any model.
 - [Realistic_Vision_V6.0_B1](https://civitai.com/models/4201/realistic-vision-v60-b1)(from SD-1.5)
   - Realistic_Vision_V6.0_B1
   - Realistic_Vision_V6.0_B1-inpainting
-- [ChilloutMix](https://civitai.com/models/6424/chilloutmix)
+- [ChilloutMix](https://civitai.com/models/6424/chilloutmix)(from SD-1.5)
