@@ -68,5 +68,5 @@ Links to any model.
 
 ## Face
 
-[FaceDetailer](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
-[AdvancedLivePortrait](https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait)
+- [FaceDetailer](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+- [AdvancedLivePortrait](https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait)
