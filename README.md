@@ -61,3 +61,7 @@ Links to any model.
 - [FLUX.1 Canny [dev] LoRA](https://huggingface.co/black-forest-labs/FLUX.1-Canny-dev-lora)
 - [FLUX.1 Depth [dev] LoRA](https://huggingface.co/black-forest-labs/FLUX.1-Depth-dev-lora)
 - [FLUX.1 Redux [dev]](https://huggingface.co/black-forest-labs/FLUX.1-Redux-dev)
+
+## Upscale
+
+- [ClearRealityV1](https://huggingface.co/Kim2091/ClearRealityV1), use with [UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
