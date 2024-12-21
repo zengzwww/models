@@ -66,6 +66,7 @@ Links to any model.
 
 - [ClearRealityV1](https://huggingface.co/Kim2091/ClearRealityV1), use with [UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
 
-## Face detailer
+## Face
 
 [FaceDetailer](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+[AdvancedLivePortrait](https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait)
